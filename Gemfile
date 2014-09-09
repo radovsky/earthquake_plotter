@@ -40,4 +40,4 @@ gem 'spring',        group: :development
 
 gem 'thin'
 
-gem 'figaro'
+gem "figaro", "~> 0.7.0"
